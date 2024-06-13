@@ -5,7 +5,11 @@ A group of Steam friends came together to form BatWorkes, and I, the host of the
 ## Contributors
 
 Terse \(me, leader\)
+
 Darkatana \(lead contributor\)
+
 Ican3931
+
 Apex
+
 Tunnas
